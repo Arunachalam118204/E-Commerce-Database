@@ -1,8 +1,8 @@
-# 🛒 E-Commerce Database Management System
+# 🛒 TechMart E-Commerce Database Management System
 
 ## 📌 Project Overview
 
-This project is a relational **E-Commerce Database Management System** developed using **MySQL**.
+This project is a relational **TechMart E-Commerce Database Management System** developed using **MySQL**.
 
 The database is designed to manage important e-commerce operations such as customers, products, categories, suppliers, orders, payments, inventory, shipments, reviews, coupons, cart items, and wishlists.
 
